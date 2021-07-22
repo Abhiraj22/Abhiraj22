@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiraj22" alt="abhiraj22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhiraj47160208" target="blank"><img src="https://img.shields.io/twitter/follow/abhiraj47160208?logo=twitter&style=for-the-badge" alt="abhiraj47160208" /></a> </p>
-
+<!-- <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628381-UI-Developer"/> -->
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/15628381/media/affbd0a5886ea406a8216a4eea77cd15.png?compress=1&resize=1600x1200" align="right" alt="Coder" width="400" />
 - 🌱 I’m currently learning **Java,DSA,web development & Blockchain Technology.**
 
 - 📫 How to reach me **abhirajsinghgaur22@gmail.com**
